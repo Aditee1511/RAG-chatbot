@@ -1,0 +1,102 @@
+[
+  {
+    "filename": "ncf_school_education_2023.pdf",
+    "title": "National Curriculum Framework for School Education 2023",
+    "source_url": "https://scert.cg.gov.in/pdf/ncf-2022/draft-NCF-2023-NCERT.pdf",
+    "license": "Government of India (NCERT/Ministry of Education) publication; freely published for public/educational use. Mirrored by Chhattisgarh SCERT; original issuing body is NCERT.",
+    "page_count": 628,
+    "text_type": "native",
+    "language": "English",
+    "topic": "School education curriculum policy (NEP 2020 implementation framework)"
+  },
+  {
+    "filename": "economic_survey_2023_24_full.pdf",
+    "title": "Economic Survey 2023-24",
+    "source_url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf",
+    "license": "Government of India (Ministry of Finance) publication hosted on official Union Budget portal; freely downloadable for public use.",
+    "page_count": 524,
+    "text_type": "native",
+    "language": "English",
+    "topic": "National economic policy including chapters on employment and skill development"
+  },
+  {
+    "filename": "ugc_annual_report_2021_22.pdf",
+    "title": "University Grants Commission Annual Report 2021-22",
+    "source_url": "https://www.ugc.gov.in/pdfnews/7167021_English-Annual-Report-2021-22.pdf",
+    "license": "Government of India (UGC, statutory body under Ministry of Education) publication; freely available on official UGC website.",
+    "page_count": 380,
+    "text_type": "native",
+    "language": "English",
+    "topic": "Higher education regulation, funding, and development schemes"
+  },
+  {
+    "filename": "aishe_2021_22_report.pdf",
+    "title": "All India Survey on Higher Education (AISHE) 2021-22",
+    "source_url": "https://cdnbbsr.s3waas.gov.in/s392049debbe566ca5782a3045cf300a3c/uploads/2024/02/20240719952688509.pdf",
+    "license": "Government of India (Ministry of Education, Dept. of Higher Education) publication; freely available on official government CDN.",
+    "page_count": 356,
+    "text_type": "native",
+    "language": "English",
+    "topic": "Higher education statistics - enrolment, institutions, teachers"
+  },
+  {
+    "filename": "ugc_annual_report_2020_21.pdf",
+    "title": "University Grants Commission Annual Report 2020-21",
+    "source_url": "https://www.ugc.gov.in/pdfnews/5789724_UGC_AR_2020-21_FNL.pdf",
+    "license": "Government of India (UGC, statutory body under Ministry of Education) publication; freely available on official UGC website.",
+    "page_count": 340,
+    "text_type": "native",
+    "language": "English",
+    "topic": "Higher education regulation, funding, and development schemes"
+  },
+  {
+    "filename": "niti_aayog_school_education_system_india.pdf",
+    "title": "School Education System in India: Temporal Analysis and Policy Roadmap for Quality Enhancement",
+    "source_url": "https://www.niti.gov.in/sites/default/files/2026-05/School-Education-System-in-India.pdf",
+    "license": "Government of India (NITI Aayog, policy think tank) publication; freely available on official niti.gov.in website.",
+    "page_count": 232,
+    "text_type": "native",
+    "language": "English",
+    "topic": "School education system analysis and quality-enhancement policy roadmap"
+  },
+  {
+    "filename": "ugc_annual_report_2017_18.pdf",
+    "title": "University Grants Commission Annual Report 2017-18",
+    "source_url": "https://www.ugc.gov.in/pdfnews/5595965_UGC-Annual-Report-English-2017-18.pdf",
+    "license": "Government of India (UGC, statutory body under Ministry of Education) publication; freely available on official UGC website.",
+    "page_count": 294,
+    "text_type": "native",
+    "language": "English",
+    "topic": "Higher education regulation, funding, and development schemes"
+  },
+  {
+    "filename": "msde_annual_report_2023_24.pdf",
+    "title": "Ministry of Skill Development and Entrepreneurship Annual Report 2023-24",
+    "source_url": "https://www.msde.gov.in/static/uploads/2024/11/4f71465f72e9f90ff079f76ca2e374a9.pdf",
+    "license": "Government of India (MSDE) publication; freely available on official msde.gov.in website.",
+    "page_count": 276,
+    "text_type": "native",
+    "language": "English",
+    "topic": "Skill India mission, PMKVY, vocational training programs"
+  },
+  {
+    "filename": "msde_annual_report_2022_23.pdf",
+    "title": "Ministry of Skill Development and Entrepreneurship Annual Report 2022-23",
+    "source_url": "https://www.msde.gov.in/static/uploads/2024/02/22-23AR.pdf",
+    "license": "Government of India (MSDE) publication; freely available on official msde.gov.in website.",
+    "page_count": 264,
+    "text_type": "native",
+    "language": "English",
+    "topic": "Skill India mission, PMKVY, vocational training programs"
+  },
+  {
+    "filename": "aicte_approval_process_handbook_2025_27.pdf",
+    "title": "AICTE Approval Process Handbook 2024-2027",
+    "source_url": "https://cdnbbsr.s3waas.gov.in/s35938b4d054136e5d59ada6ec9c295d7a/uploads/2025/03/2025031399.pdf",
+    "license": "Government of India (AICTE, statutory body under Ministry of Education) publication; freely available on official government CDN.",
+    "page_count": 231,
+    "text_type": "native",
+    "language": "English",
+    "topic": "Technical education institution approval norms and processes"
+  }
+]

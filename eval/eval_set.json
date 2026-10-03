@@ -1,0 +1,37 @@
+[
+  {
+    "question": "How many candidates have attended the online Pre\u2011Departure Orientation Training under Pravasi Kaushal Vikas Yojana as of 31st December 2022?",
+    "expected_chunk_id": "8846f09b52371389",
+    "expected_filename": "msde_annual_report_2022_23.pdf",
+    "expected_page_start": 225,
+    "expected_page_end": 226
+  },
+  {
+    "question": "Who is the Chairman of the Steering Committee for Higher Education Statistics & Public Information System?",
+    "expected_chunk_id": "996c8446cde15213",
+    "expected_filename": "aishe_2021_22_report.pdf",
+    "expected_page_start": 309,
+    "expected_page_end": 311
+  },
+  {
+    "question": "What specific types of additional teaching aids are referenced through QR\u2011Codes in the textbook+?",
+    "expected_chunk_id": "277fa2036245b2b3",
+    "expected_filename": "ncf_school_education_2023.pdf",
+    "expected_page_start": 67,
+    "expected_page_end": 68
+  },
+  {
+    "question": "Which university in Andhra Pradesh was established in 1976 and has the web address http://www.anu.ac.in?",
+    "expected_chunk_id": "4405a57d737cec7c",
+    "expected_filename": "ugc_annual_report_2020_21.pdf",
+    "expected_page_start": 113,
+    "expected_page_end": 114
+  },
+  {
+    "question": "What is the application number mentioned in the affidavit for conducting Open and Distance Learning Courses?",
+    "expected_chunk_id": "28aa259b1e1468ea",
+    "expected_filename": "aicte_approval_process_handbook_2025_27.pdf",
+    "expected_page_start": 215,
+    "expected_page_end": 216
+  }
+]
